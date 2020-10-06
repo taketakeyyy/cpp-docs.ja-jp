@@ -47,7 +47,7 @@ landingContent:
   linkLists:
   - linkListType: reference
     links:
-    - text: C# 言語リファレンス
+    - text: C 言語リファレンス
       url: ../c-language/c-language-reference.md
     - text: C の要素
       url: ../c-language/elements-of-c.md
