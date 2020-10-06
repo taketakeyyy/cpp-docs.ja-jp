@@ -1,8 +1,8 @@
 - name: C 言語のドキュメント
   href: ../c-language/index.yml
-- name: 'C# 言語リファレンス'
+- name: 'C 言語リファレンス'
   items:
-    - name: 'C# 言語リファレンス'
+    - name: 'C 言語リファレンス'
       href: ../c-language/c-language-reference.md
     - name: 「C 言語リファレンス」の構成
       items:
